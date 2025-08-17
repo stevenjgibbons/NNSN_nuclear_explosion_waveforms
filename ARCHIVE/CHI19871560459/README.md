@@ -1,3 +1,5 @@
+![Sample waveform plot for event CHI19871560459](../../event_panels/CHI19871560459.png)!
+
 Files for event CHI19871560459:  
 
 ```
