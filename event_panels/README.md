@@ -13,23 +13,23 @@ CHI19952290059.png  USS19871710053.png  USS19881250057.png  USS19892920949.png
 CHI19961600255.png  USS19871980117.png  USS19881282249.png  USS19902971457.png
 ```
 
-**Event CHI19871560459**  
+**Event CHI19871560459**  1987-06-05T04:59:58, 41.518N, 88.713E, Lop Nor test-site  
 [![NNSN waveforms for event CHI19871560459](./CHI19871560459.png)](https://github.com/stevenjgibbons/NNSN_nuclear_explosion_waveforms/tree/main/ARCHIVE/CHI19871560459))  
 
 
-**Event CHI19901460759**  
+**Event CHI19901460759** 1990-05-26T07:59:57, 41.569N, 88.701E, Lop Nor test-site  
 [![NNSN waveforms for event CHI19901460759](./CHI19901460759.png)](https://github.com/stevenjgibbons/NNSN_nuclear_explosion_waveforms/tree/main/ARCHIVE/CHI19901460759))  
 
 
-**Event CHI19902280459**  
+**Event CHI19902280459**  1990-08-16T04:59:57, 41.514N, 88.739E, Lop Nor test-site  
 [![NNSN waveforms for event CHI19902280459](./CHI19902280459.png)](https://github.com/stevenjgibbons/NNSN_nuclear_explosion_waveforms/tree/main/ARCHIVE/CHI19902280459))  
 
 
-**Event CHI19921420459**  
+**Event CHI19921420459**  1992-05-21T04:59:57, 41.513N, 88.774E, Lop Nor test-site  
 [![NNSN waveforms for event CHI19921420459](./CHI19921420459.png)](https://github.com/stevenjgibbons/NNSN_nuclear_explosion_waveforms/tree/main/ARCHIVE/CHI19921420459))  
 
 
-**Event CHI19932780159**  
+**Event CHI19932780159**  1993-10-05T01:59:56, 41.667N, 88.695E, Lop Nor test-site  
 [![NNSN waveforms for event CHI19932780159](./CHI19932780159.png)](https://github.com/stevenjgibbons/NNSN_nuclear_explosion_waveforms/tree/main/ARCHIVE/CHI19932780159))  
 
 
