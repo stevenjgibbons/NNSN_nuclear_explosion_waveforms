@@ -1,5 +1,7 @@
 ![Sample waveform plot for event CHI19871560459](../../event_panels/CHI19871560459.png)
 
+1987-06-05T04:59:58, 41.518N, 88.713E, Lop Nor test-site  
+
 Files for event CHI19871560459:  
 
 ```
