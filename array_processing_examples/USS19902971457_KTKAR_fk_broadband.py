@@ -149,7 +149,8 @@ def fk_map_delay_and_sum(st, t_center, win_len, fmin, fmax,
 def plot_fk(SX, SY, Pn, best, t_center, win_len, band, out_dir):
     fmin, fmax = band
     fig, ax = plt.subplots(1, 1, figsize=(7, 6))
-    im = ax.pcolormesh(SX, SY, Pn, shading='nearest', cmap='viridis')
+    im = ax.pcolormesh(SX, SY, Pn, shading='auto', cmap='viridis', edgecolors="face", linewidth=0.5, antialiased=True )
+    # im = ax.pcolormesh(SX, SY, Pn, shading='nearest', cmap='viridis')
     cb = fig.colorbar(im, ax=ax, shrink=0.9)
     cb.set_label('Normalized beam power')
     ax.plot(best['sx'], best['sy'], 'r+', ms=12, mew=2, label='Max')
